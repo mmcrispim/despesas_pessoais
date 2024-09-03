@@ -1,0 +1,16 @@
+site_name: Despesas Pessoais
+repo_url: https://github.com/mmcrispim/despesas_pessoais
+repo_name: mmcrispim/despesas_pessoais
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/despesas.png
+  favicon: assets/despesas.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheet/extra.css
