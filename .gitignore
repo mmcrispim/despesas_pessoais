@@ -173,4 +173,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Arquivos de saída do projeto
+despesas_pessoais/output/
+
 # End of https://www.toptal.com/developers/gitignore/api/python
